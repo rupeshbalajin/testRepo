@@ -1,0 +1,26 @@
+1. Can you talk about the sequence/order of execution in salesforce ? 
+2. Workflow configuration
+
+2. You have built a framework. You have a specific use case where in one scenario you'll have to bypass the validation rules in apex and do DMLs. But post the DML operation, all the validation rules should be enforced.
+
+3. Can you explain how would you configure the email to case setup in salesforce ?
+
+workflow. default owner and lead owner. I cant remember.
+
+3. Write a visualforce page with a standardcontroller on the Account Object that takes in the following parameters Account Name, Phone number, Email & Address and with two buttons Save and check for existing accounts. 
+
+4. Write in an extenstion to the above where when a user clicks on the Check for Existing Accounts then it should display a warning message that would say "An account already exists in the system".
+there should be something here in the constructor wrong constructor logic
+
+6. You have two orgs that have Salesforce-to-Salesforce Connections Setup. You have cases being pushed from one org to the other org and want to customize the cases that are being pushed through this integration. How will you implement this ?
+-- external Id or object or external look up.
+
+-- Page Level validation occurs, Custom Validation Rules, System Level Validations, Before Triggers, workflows 
+-- how many records were effected, De-activating the workflow, deployment. 
+
+Candidate: Run a query. execute anonymous window.
+
+
+try catch block, hierarchial
+
+jason troupin
