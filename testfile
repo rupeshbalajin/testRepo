@@ -1,5 +1,5 @@
 1. Can you talk about the sequence/order of execution in salesforce ? 
-2. Workflow configuration
+
 
 2. You have built a framework. You have a specific use case where in one scenario you'll have to bypass the validation rules in apex and do DMLs. But post the DML operation, all the validation rules should be enforced.
 
